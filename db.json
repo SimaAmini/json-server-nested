@@ -1,0 +1,17 @@
+  [
+    {
+      id: '1',
+      title: 'region 1',
+      certificate: [
+        { id: '1', title: 'certificate 1' },
+        { id: '2', title: 'certificate 2' },
+      ],
+    },
+    {
+      id: '2',
+      title: 'region 2',
+      certificate: [
+        { id: '1', title: 'certificate 3' },
+        { id: '2', title: 'certificate 4' },
+      ],
+    ]
